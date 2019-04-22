@@ -1,0 +1,8 @@
+ID=0
+Name=test
+TipSizeX=32
+TipSizeY=32
+MapSizeX=60
+MapSizeY=60
+Layer=3
+MapTip=./map/map_0/map.png
