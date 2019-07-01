@@ -1,0 +1,12 @@
+{
+	"stage": [
+		{
+			"directory": "map_0",
+			"title": "test",
+			"layer": ["0.map", "1.map", "2.map"],
+			"maptip": "map.png",
+			"background": "bgp.png",
+			"tipsize": [32,32]
+		}
+	]
+}

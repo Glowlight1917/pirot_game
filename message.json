@@ -1,0 +1,15 @@
+{
+	"stage": {
+		"stage_id": 1,
+		"pos": [100, 100],
+		"content": "Test"	
+	},
+
+	"gui": {
+
+	},
+
+	"system": {
+	
+	}
+}
